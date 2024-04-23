@@ -26,9 +26,4 @@ python secret_auction.py
 ## Contribution
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or create a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgements
-Logo design by ASCII Art Generator
-Art inspiration from Artivive
